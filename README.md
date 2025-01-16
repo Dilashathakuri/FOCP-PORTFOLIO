@@ -6,9 +6,9 @@ This repository contains practical programs and projects completed during colleg
 
 ## Contents:
 
-### 1. Homework Programs
+### 1. Programs
 - Various practical exercises and assignments received from LBU.
-- These include coding challenges, algorithms, and tasks completed as part of the coursework.
+- These include coding challenges, and tasks completed as part of the coursework.
 
 ### 2. Projects
 - **Project 1: Chatbot**
@@ -49,7 +49,7 @@ This repository contains practical programs and projects completed during colleg
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Dilashathakuri/repository-name.git
    ```
 
 2. Navigate to the project directory:
