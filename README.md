@@ -1,6 +1,6 @@
 ---
 
-# Practical Programs Repository
+# FOCP
 
 This repository contains practical programs and projects completed during college, including homework assignments and college-sent projects.
 
