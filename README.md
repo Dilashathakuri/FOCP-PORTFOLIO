@@ -58,12 +58,3 @@ This repository contains practical assignments, homework, and projects completed
    python manage.py runserver
    ```
 
-## Contributing
-
-If you would like to contribute to this repository, feel free to fork it and submit a pull request. Please make sure to follow the coding standards and include relevant documentation.
-
-## License
-
-This project is licensed under the MIT License.
-
----
