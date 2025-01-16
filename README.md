@@ -43,16 +43,8 @@ This repository contains practical assignments, homework, and projects completed
    ```bash
    git clone https://github.com/Dilashathakuri/repositoryname.git
    ```
-2. Navigate to the `futsal_management_system` directory and set up a virtual environment:
+2. Run the server(uses tkinter):
    ```bash
-   python -m venv venv
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the server:
-   ```bash
-   python manage.py runserver
+  python futsal_management_system.py
    ```
 
