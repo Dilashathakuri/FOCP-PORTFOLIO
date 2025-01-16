@@ -11,18 +11,16 @@ This repository contains practical assignments, homework, and projects completed
    
 2. **Project 1: Chatbot**
    - A chatbot program designed to interact with users, providing responses based on predefined scripts or artificial intelligence algorithms.
-   - Technologies used: Python, NLTK, machine learning (if applicable).
+   - Technologies used: Python, NLTK.
    
 3. **Project 2: Futsal Management System**
    - A system designed to manage Futsal operations, such as booking courts, scheduling matches, and keeping track of bookings.
-   - Technologies used: Python, Django, database (e.g., SQLite or MySQL).
 
 ## Features
 
 - **Chatbot**: 
   - User interaction via text-based input.
-  - Can be expanded to include AI-based responses (depending on the version).
-  
+
 - **Futsal Management System**:
   - Allows users to book courts.
   - Provides scheduling features for matches.
