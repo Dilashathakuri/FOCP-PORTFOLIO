@@ -49,7 +49,7 @@ This repository contains practical programs and projects completed during colleg
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dilashathakuri/repository-name.git
+   git clone https://github.com/Dilashathakuri/FOCP-PORTFOLIO.git
    ```
 
 2. Navigate to the project directory:
